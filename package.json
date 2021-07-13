@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author":"joel.peltonen@digitalcareerinstitute.org",
+  "author": "joel.peltonen@digitalcareerinstitute.org",
   "scripts": {
     "start": "react-scripts start"
   },
   "keywords": [],
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.0.2",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
     "react-scripts": "^4.0.3"
   },
